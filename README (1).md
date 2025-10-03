@@ -35,13 +35,6 @@ Users can pick a random number and win exciting prizes with **animations and sou
 
 ---
 
-## 💻 Live Demo & Repository  
-
-- [Live Demo](https://lnkd.in/eRfJ6-7p)  
-- [GitHub Repository](https://lnkd.in/etYsW8TA)  
-
----
-
 ## 📝 How to Run Locally  
 1. Clone the repository:  
    ```bash
